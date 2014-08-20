@@ -3,7 +3,7 @@ AndroidHeartBeatFixer
 Way to set heartbeat interval and the User receive PushNotifications from GCM. Based on related post in Google Forums about HeartBeat problem.
 
 
-How the GCM push notifications connection works?
+How GCM push notifications connection works?
 ==================================================
 
 "Android push notifications works through one TCP connection on the port 5228 between the phone and google servers. This connection is established when the phone connect to a network. All android push apps (gmail, whatsapp, hangouts, etc.) use Google Cloud Messaging (GCM) to send and receive push notifications thought that connection."
