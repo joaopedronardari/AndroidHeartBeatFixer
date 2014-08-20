@@ -8,7 +8,7 @@ How the GCM push notifications connection works?
 
 "Android push notifications works through one TCP connection on the port 5228 between the phone and google servers. This connection is established when the phone connect to a network. All android push apps (gmail, whatsapp, hangouts, etc.) use Google Cloud Messaging (GCM) to send and receive push notifications thought that connection."
 
-What`s "HeartBeat"?
+What's "HeartBeat"?
 ===================
 
 "Android have a mechanism to send a little network packet (called heartbeat) every x minutes to avoid the tcp connection timeout and check if the connection is alive; that is a wide common and working practice. If the connection is not alive, the GCM connection is re-established and previously  notifications and new one come again."
