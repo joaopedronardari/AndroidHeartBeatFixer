@@ -27,6 +27,6 @@ You can "solve" this problem today setting heartbeat interval from your app call
 * ``com.google.android.intent.action.MCS_HEARTBEAT``
 * ``com.google.android.intent.action.GTALK_HEARTBEAT``
 
-Fonte das explicações sobre o HeartBeat - https://productforums.google.com/forum/#!msg/nexus/fslYqYrULto/lU2D3Qe1mugJ
+Source of explanations about HeartBeat - https://productforums.google.com/forum/#!msg/nexus/fslYqYrULto/lU2D3Qe1mugJ
 
 
