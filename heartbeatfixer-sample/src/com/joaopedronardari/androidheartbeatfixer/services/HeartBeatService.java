@@ -7,7 +7,7 @@ import android.os.IBinder;
 /**
  * Call this service when you want to send a HEART BEAT
  * It's a simple implementation, shows how to sendBroadcast intents to keep alive or restabilize connection with GCM
- * Hints: You can use to the sendbroadcast in a schedule alarm or use this
+ * Hints: You can use to sendbroadcast() in a schedule alarm or use this
  * service with a time interval and START_STICKY.
  * 
  * @author joaonardari
