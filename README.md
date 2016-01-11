@@ -1,7 +1,8 @@
-AndroidHeartBeatFixer
+AndroidHeartBeatFixer 
 =====================
 
 Way to set heartbeat interval and the User receive PushNotifications from GCM. Based on a Google Forums post about HeartBeat problem.
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidHeartBeatFixer-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/2772)
 
 How GCM push notifications connection works?
